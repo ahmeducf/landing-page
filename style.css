@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,900;1,300&display=swap');
 
 body {
     min-height: 100vh;
     margin: 0;
-    font-family: Roboto, sans-serif;
+    font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
 }
@@ -136,6 +136,26 @@ header .content img {
 #information img {
     width: 100px;
     height: auto;
+}
+
+/* Quote Section */
+#quote {
+    background-color: #e5e7eb;
+    padding: 80px 252px;
+}
+
+#quote .text {
+    margin: 0;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+}
+
+#quote .author {
+    font-weight: 600;
+    text-align: right;
+    padding-right: 80px;
 }
 
 /* Footer Section */
