@@ -1,10 +1,10 @@
 # Landing Page
-This is a simple standalone web page just to practice *CSS Flexbox*.
+This is a simple standalone web page just to practice *CSS Flexbox* under the supervision of [The Odin Project](https://www.theodinproject.com/).
 
 give a look [ahmeducf.github.io/landing-page](https://ahmeducf.github.io/landing-page)
 
 ### Hints
-- The project is meant only to sharpen flexbox skills, so I didn't bother with details.
+- The project is meant only to sharpen flexbox skills, so I didn't bother with other details.
 - The page is not responsive on mobile screens.
 
 ## Complete Design
