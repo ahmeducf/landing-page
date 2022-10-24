@@ -1,5 +1,5 @@
 # Landing Page
-This is a simple standalone web page just to practice *CSS Flexbox* under the supervision of [The Odin Project](https://www.theodinproject.com/).
+This is a simple standalone web page just to practice **CSS Flexbox** under the supervision of [The Odin Project](https://www.theodinproject.com/).
 
 give a look [ahmeducf.github.io/landing-page](https://ahmeducf.github.io/landing-page)
 
