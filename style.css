@@ -181,7 +181,6 @@ header .content img {
 
 #call-to-action .container h3 {
     margin: 0;
-    /* padding-bottom: 8px; */
     color: #f9faf8;
 }
 
@@ -195,6 +194,7 @@ header .content img {
     background-color: #3882f6;
     border: 2px solid #f9faf8;
 }
+
 /* Footer Section */
 footer {
     background-color: #1f2937;
